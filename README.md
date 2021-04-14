@@ -2,7 +2,6 @@
 
 ![gst-billing-cusotmer-data](https://user-images.githubusercontent.com/54524364/114673103-79559480-9d23-11eb-921f-5b9f3d270877.jpg)
 ![gst-billing-details](https://user-images.githubusercontent.com/54524364/114673118-7ce91b80-9d23-11eb-9659-fdfa8e182bf0.jpg)
-![gst-billing-invoice](https://user-images.githubusercontent.com/54524364/114673138-81adcf80-9d23-11eb-8f34-80c263fe896a.jpg)
 ![gst-billing-overview](https://user-images.githubusercontent.com/54524364/114673173-8a060a80-9d23-11eb-8097-97aafa311a58.jpg)
 
  
